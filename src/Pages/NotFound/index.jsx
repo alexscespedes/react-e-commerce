@@ -1,10 +1,12 @@
 import React from 'react'
+import Layout from '../../Components/Layout'
+
 
 function NotFound() {
   return (
-    <div className=''>
+    <Layout>
         NotFound
-    </div>
+    </Layout>
   )
 }
 
