@@ -1,0 +1,9 @@
+.product-detail {
+    width: 360px;
+    height: calc(100vh - 68px);
+    top: 68px;
+}
+
+/* Alternativa al css con Tailwind CSS:
+<aside className="flex flex-col fixed right-0 
+border bg-white border-black rounded-lg w-[360px] h-[calc(100vh-80px)]>" */
